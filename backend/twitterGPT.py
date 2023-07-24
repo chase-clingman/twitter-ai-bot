@@ -54,24 +54,7 @@ PERSONALITIES = [
     # add as many personalities as you like
 ]
 ACCOUNTS = [
-    {"email": "pavelgorshenyov017@gmail.com", "password": "3EAhzSLNuT",
-        "recovery": "aoleolciawpb@rambler.ru"},
-    {"email": "galinayatsenkovskaya43@gmail.com",
-        "password": "YiKT2dvaxz", "recovery": "vxkcjbjoozar@rambler.ru"},
-    {"email": "banakomin9@gmail.com", "password": "0j5jpcdbNJ",
-        "recovery": "oaotverlvjcx@rambler.ru"},
-    {"email": "adamkaran96@gmail.com", "password": "SBaEfQfcMS",
-        "recovery": "okiaqszdzzxf@rambler.ru"},
-    {"email": "khanipov.engovatov@gmail.com", "password": "UVbapQ2RLz",
-        "recovery": "qlmhhocywmfn@rambler.ru"},
-    {"email": "vodovatov.jiglov@gmail.com", "password": "rY1WIdi3yB",
-        "recovery": "apeaegtlpxfm@rambler.ru"},
-    {"email": "zaitsev.jidkov@gmail.com", "password": "94MhLIBh0K",
-        "recovery": "zvuxfhgpeblh@rambler.ru"},
-    {"email": "ossennykh.perekhatkine@gmail.com",
-        "password": "Nqa8E3Lxu8", "recovery": "lfhvcmdovgeq@rambler.ru"},
-    {"email": "veronikaanokhina920@gmail.com", "password": "Ozkx6mHSCi",
-        "recovery": "aglfwjvrrdqw@rambler.ru"},
+
     # add as many accounts as you like
 ]
 
