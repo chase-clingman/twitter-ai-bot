@@ -21,7 +21,7 @@ from bs4 import BeautifulSoup
 from PIL import Image
 from io import BytesIO
 
-openai.api_key = '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'
+openai.api_key = 'sk-'
 
 # GMAIL = 'zaitsev.jidkov@gmail.com'
 # PASSWORD = '94MhLIBh0K'
